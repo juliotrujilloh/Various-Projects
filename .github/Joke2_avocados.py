@@ -1,3 +1,5 @@
+#How NOT to give instructions to a programmer...lol
+
 you_see_avocados = True
 bring = 0
 
