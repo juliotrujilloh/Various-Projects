@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliotrujilloh
-- 👀 I’m interested in ...software development, ML and data science (quite a lot, right?)
-- 🌱 I’m currently learning ...Python and how to use modules
+- 👀 I’m interested in ...software and app coding
+- 🌱 I’m currently learning ...Python and OOP
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...juliotrujilloh@gmail.com
 
