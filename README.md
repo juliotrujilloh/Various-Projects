@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @juliotrujilloh
-- 👀 I’m interested in ...Coding
-- 💞️ I’m looking to collaborate on ...any project
-- 📫 How to reach me ...juliotrujilloh@gmail.com
+In this repo you can take a look on a couple of projects that I've worked on.
